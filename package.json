@@ -1,5 +1,5 @@
 {
-  "name": "caroyun-test-package",
+  "name": "eslint-config-caroyun",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
